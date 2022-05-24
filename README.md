@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" style="width: 48%" src="https://github-readme-stats.vercel.app/api?username=CircuitMurderer" />
-<img align="right" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitMurderer&layout=compact" />
+<img align="right" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitMurderer" />
