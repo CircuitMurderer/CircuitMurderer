@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CircuitMurderer" />
+<img src="https://github-readme-stats.vercel.app/api?username=CircuitMurderer" />
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitMurderer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CircuitMurderer" />
